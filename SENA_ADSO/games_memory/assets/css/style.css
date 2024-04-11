@@ -1,0 +1,25 @@
+body {
+  background:  linear-gradient(100deg, rgba(20, 22, 133, 0.815)0%, rgba(0, 10, 41, 0.904)90%);
+} 
+
+@font-face {
+  font-family: press-start-2p;
+  src: url('../font/press-start-2p_5.0.19/ttf/press-start-2p-latin-400-normal.ttf');
+}
+
+.text-center{
+  font-family: press-start-2p;
+  color: white;
+}
+.contCard{
+  cursor: pointer;
+}
+
+.navbar-brand{
+  font-family: press-start-2p;
+ 
+}
+
+.container{
+  font-family: press-start-2p;
+}
